@@ -1,6 +1,6 @@
 import Energy from '../Energy';
 
-interface FighterBasic {
+export interface FighterBasic {
   lifePoints: number;
   strength: number;
   defense: number;
